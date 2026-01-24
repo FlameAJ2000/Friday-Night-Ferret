@@ -1,6 +1,7 @@
 # Friday-Night-Ferret
 Download the mod from our website > https://sites.google.com/view/Friday-Night-Ferret-Official
 Or you can download it here
+
 Windows- https://drive.google.com/file/d/1C4jQqKPIEA-IWGEs6MBKNUPgMVi08Ct1/view
 
 Linux Port- https://drive.google.com/file/d/1V8aYMGLDLvEvW_3ZYUe5Q3Y3e4TBY8Sq/view
@@ -8,11 +9,15 @@ Linux Port- https://drive.google.com/file/d/1V8aYMGLDLvEvW_3ZYUe5Q3Y3e4TBY8Sq/vi
 Mac OS Port- https://drive.google.com/file/d/1V-1eXFDwtmI_sFZrSf11QBU1PENLvXR5/view
 
 Please remember this mod is still a work in progress so you can and will find bugs and if you do please feel free to let me via in person (this only applies if you go to my school)   Or you contact us via message (Coming soon)
+
 Latest Game update: 1/20/26
+
 Web Port Coming Soon.....
 
 What's In The Game:
+
 -5 Songs (Not including Shucks)
+
 -Really nice sounding songs with cool mechanics and events that make the gameplay better and more challenging.
 
 Credits:
