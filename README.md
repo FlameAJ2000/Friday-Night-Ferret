@@ -16,6 +16,7 @@ What's In The Game:
 -Really nice sounding songs with cool mechanics and events that make the gameplay better and more challenging.
 
 Credits:
+Make sure to check out the OG Friday Night Funkin> https://ninja-muffin24.itch.io/funkin
 Some assets: Jeffy's infinite Irida
 Stage/Character Designer/scripter: Jeffrey 
 FreePlay Menu Designer/Song Charter/Song Ideas/Most Pause Art: AJ aka one of the creators of Galaxy games
