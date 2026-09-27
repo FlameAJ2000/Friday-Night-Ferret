@@ -15,10 +15,7 @@ Latest Game update: 1/20/26
 Web Port Coming Soon.....
 
 What's In The Game:
-
--5 Songs (Not including Shucks)
-
--Really nice sounding songs with cool mechanics and events that make the gameplay better and more challenging.
+TBD(When the game releases
 
 Credits:
 Make sure to check out the OG Friday Night Funkin> https://ninja-muffin24.itch.io/funkin
